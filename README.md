@@ -16,5 +16,4 @@ Result:
 ![](images/contest1_graph.png)
 
 
-
-# neo4j-graph-contest
+The results are not perfect. The LLM halucinated one flavor: Caramel, which is not present. It also cannot decipher the small blury text.
