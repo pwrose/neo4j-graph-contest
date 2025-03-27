@@ -3,7 +3,7 @@
 Contest:
 
 Use the image below as the only input. The goal is to model it as a graph—whatever that means to you. Get clever, get weird, get visual.
-![](images/contest1.jpeg)
+![](images/contest1.jpg)
 
 Solution:
 
